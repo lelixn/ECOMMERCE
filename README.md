@@ -109,11 +109,11 @@ mvn tomcat7:run
 
 <p align="center"> <img src="https://github.com/lelixn/ECOMMERCE/assets/demo-home.png" width="80%" alt="Homepage Screenshot"/> <br/> <em>🛍️ Homepage — Clean and Responsive UI</em> </p> <p align="center"> <img src="https://github.com/lelixn/ECOMMERCE/assets/demo-admin.png" width="80%" alt="Admin Panel Screenshot"/> <br/> <em>🧑‍💼 Admin Dashboard — Manage Products & Orders</em> </p>
 
-🧑‍💻 Author
+ Author
 👤 Lelien Panda
 
 This project is licensed under the MIT License — see the LICENSE
  file for details.
 You’re free to use and modify it with proper credit.
 
-<p align="center"> Made with ❤️ by <a href="https://github.com/lelixn">Lelien Panda</a> <br/> <sub>“Turning ideas into interactive experiences.”</sub> </p> ```
+<p align="center"> Made with ❤️ by <a href="https://github.com/lelixn">Lelien Panda</a> <br/> <sub>“Turning ideas into interactive experiences.”</sub> </p> 
