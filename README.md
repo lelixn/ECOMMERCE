@@ -116,4 +116,6 @@ This project is licensed under the MIT License — see the LICENSE
  file for details.
 You’re free to use and modify it with proper credit.
 
-<p align="center"> Made with ❤️ by <a href="https://github.com/lelixn">Lelien Panda</a> <br/> <sub>“Turning ideas into interactive experiences.”</sub> </p> 
+<p align="center"> Made with ❤️ by <a href="https://github.com/DeepakDalei22">
+<img src="https://avatars.githubusercontent.com/u/226280663?v=4" width="80%" alt="Deepal Dalei"/>
+</a> <br/> <sub>“Turning ideas into interactive experiences.”</sub> </p> 

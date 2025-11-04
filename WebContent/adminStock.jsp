@@ -29,7 +29,7 @@
 
 	}
 
-	else if (userName == null || password == null) {
+	else if( userName == null || password ==null){
 
 		response.sendRedirect("login.jsp?message=Session Expired, Login Again!!");
 

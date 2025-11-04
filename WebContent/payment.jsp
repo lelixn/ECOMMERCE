@@ -34,6 +34,7 @@
 
 	if (sAmount != null) {
 		amount = Double.parseDouble(sAmount);
+	
 	}
 	%>
 
